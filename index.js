@@ -81,6 +81,25 @@ var languages = {
     name: 'HTTP',
     mode: 'http',
     fileExtensions: ['http']
+  },
+  'julia': {
+    name: 'Julia',
+    mode: 'julia',
+    fileExtensions: ['jl'],
+    lineComment: ['#']
+  },
+  'lua': {
+    name: 'Lua',
+    mode: 'lua',
+    fileExtensions: ['lua'],
+    lineComment: ['--'],
+    blockComment: ['--[[', ']]']
+  },
+  'mirc': {
+    name: 'mIRC',
+    mode: 'mirc',
+    fileExtensions: ['mrc'],
+    lineComment: [';'],
   }
 };
 
