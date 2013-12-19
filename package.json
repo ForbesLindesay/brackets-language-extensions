@@ -1,0 +1,22 @@
+{
+  "name": "brackets-language-extensions",
+  "version": "0.0.0",
+  "description": "Plugins for langauges supported by CodeMirror but not by brackets",
+  "keywords": [],
+  "dependencies": {
+    "node-zip": "~1.0.1",
+    "rimraf": "~2.2.4"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/brackets-language-extensions.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
