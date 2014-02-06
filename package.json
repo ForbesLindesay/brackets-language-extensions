@@ -1,7 +1,7 @@
 {
   "name": "brackets-language-extensions",
   "version": "0.0.0",
-  "description": "Plugins for langauges supported by CodeMirror but not by brackets",
+  "description": "Plugins for languages supported by CodeMirror but not by brackets",
   "keywords": [],
   "dependencies": {
     "node-zip": "~1.0.1",
