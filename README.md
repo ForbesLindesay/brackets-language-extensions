@@ -1,6 +1,6 @@
 # brackets-language-extensions
 
-Plugins for langauges supported by CodeMirror but not by brackets
+Plugins for languages supported by CodeMirror but not by brackets
 
 [![Build Status](https://travis-ci.org/ForbesLindesay/brackets-language-extensions.png?branch=master)](https://travis-ci.org/ForbesLindesay/brackets-language-extensions)
 [![Dependency Status](https://gemnasium.com/ForbesLindesay/brackets-language-extensions.png)](https://gemnasium.com/ForbesLindesay/brackets-language-extensions)
