@@ -100,6 +100,11 @@ var languages = {
     mode: 'mirc',
     fileExtensions: ['mrc'],
     lineComment: [';'],
+  },
+  'pegjs': {
+    name: 'pegjs',
+    mode: 'pegjs',
+    fileExtensions: ['pegjs']
   }
 };
 
