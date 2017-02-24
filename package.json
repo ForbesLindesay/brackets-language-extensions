@@ -4,8 +4,8 @@
   "description": "Plugins for languages supported by CodeMirror but not by brackets",
   "keywords": [],
   "dependencies": {
-    "node-zip": "~1.0.1",
-    "rimraf": "~2.2.4"
+    "node-zip": "~1.1.1",
+    "rimraf": "~2.6.1"
   },
   "devDependencies": {
     "mocha": "*"
