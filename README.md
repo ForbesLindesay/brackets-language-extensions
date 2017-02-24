@@ -1,5 +1,7 @@
 # brackets-language-extensions
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/brackets-language-extensions.svg)](https://greenkeeper.io/)
+
 Plugins for languages supported by CodeMirror but not by brackets
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/brackets-language-extensions/master.svg)](https://travis-ci.org/ForbesLindesay/brackets-language-extensions)
